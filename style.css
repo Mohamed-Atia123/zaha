@@ -1,0 +1,221 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.section1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url(images/eid.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 80vh;
+    padding-top: 20px;
+}
+
+.section1 .class1 h1 {
+    color: white;
+    font-family: 'pacifico' cursive;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: 'MonteCarlo', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    word-spacing: 3px;
+}
+
+ul {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+#l1 {
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 3px;
+
+}
+
+.class1 :not(ul, h1) {
+    text-align: center;
+}
+
+a {
+    padding: 20px;
+    color: white;
+}
+
+.section1 p {
+    color: white;
+    font-size: xx-large;
+    padding-top: 35vh;
+    font-family: 'MonteCarlo', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    word-spacing: 3px;
+}
+
+span {
+    color: yellow;
+}
+
+.section2 {
+    background-color: transparent;
+    height: 30vh;
+    margin-top: 50px;
+}
+
+.oo {
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+
+.section2 .oo p {
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+
+.section2 h3 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+    padding-bottom: 20px;
+    margin-left: 40%;
+}
+
+
+.ppp {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.div1 {
+    background-color: rgba(29, 28, 28, 0.5);
+    width: 22%;
+    height: 40vh;
+    text-align: center;
+
+}
+
+.div1 i {
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+.div1 h2 {
+    padding-top: 15px;
+}
+
+.div1 p {
+    padding: 15px;
+
+}
+
+/* --------------------------------------------------*/
+.div2 {
+    background-color: yellow;
+    width: 22%;
+    height: 40vh;
+    text-align: center;
+}
+
+.div2 i {
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+.div2 h2 {
+    padding-top: 15px;
+}
+
+.div2 p {
+    padding: 15px;
+
+}
+
+/*------------------------------------------------------*/
+.div3 {
+    background-color: rgba(29, 28, 28, 0.5);
+    width: 22%;
+    height: 40vh;
+    text-align: center;
+}
+
+.div3 i {
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+.div3 h2 {
+    padding-top: 15px;
+}
+
+.div3 p {
+    padding: 15px;
+
+}
+
+/* -------------------------------------------*/
+.div4 {
+    background-color: yellow;
+    width: 22%;
+    height: 40vh;
+    text-align: center;
+}
+
+.div4 i {
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+.div4 h2 {
+    padding-top: 15px;
+}
+
+.div4 p {
+    padding: 15px;
+
+}
+
+/*------------------------------------------------------*/
+.h11 {
+    color: yellow;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+
+.section3 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 80vh;
+    margin-bottom: 30px;
+}
+
+.section3 img {
+    width: calc(99%/4);
+    height: calc(99%/2);
+    border: 1px solid yellow;
+
+}
+.section4{
+    background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.7)), url(images/8.jpg);
+    text-align: center;
+    background-size:100% 100%;
+    height: 70vh;
+    background-position: center;
+}
+.divo{
+    padding-top: 20px;
+    border: 2px solid yellow;
+    width: 40%;
+    height: 40vh;
+    background-color:rgba(78, 92, 83, 0.3);
+
+}
